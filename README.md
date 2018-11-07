@@ -30,7 +30,7 @@ Realizamos los siguientes pasos
 
 </alumno>
 
-</Alumnos>]
+</Alumnos>
 
 * Guardamos escribiendo al final del nombre de archivo la extensión .xml
 * Comprobamos con el navegador que ha funcionado correctamente .
