@@ -17,7 +17,7 @@ Realizamos los siguientes pasos
 Realizamos los siguientes pasos
 * Creamos un documento en el bloc de notas
 * Introducimos el codigo XML
- <?xml version="1.0"?>
+[<?xml version="1.0"?>
 <Alumnos>
 
 <alumno>
@@ -30,7 +30,7 @@ Realizamos los siguientes pasos
 
 </alumno>
 
-</Alumnos>
+</Alumnos>]
 
 * Guardamos escribiendo al final del nombre de archivo la extensión .xml
 * Comprobamos con el navegador que ha funcionado correctamente .
