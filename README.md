@@ -9,7 +9,7 @@ Realizamos los siguientes pasos
 >{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
 \viewkind4\uc1\pard\sa200\sl276\slmult1\lang10\f0\fs22 soy \i cursiva\i0\par}
 >
-* Guardamos escribiendo al final del nombre de archivo la extensión .rtf
+* Guardamos escribiendo al final del nombre de archivo la extensión **.rtf**
 * Comprobamos con el microsoft word que a funcionado y ahora nos aparece ***Soy cursiva***.
 
 
@@ -32,7 +32,7 @@ Realizamos los siguientes pasos
 
 </Alumnos>
 
-* Guardamos escribiendo al final del nombre de archivo la extensión .xml
+* Guardamos escribiendo al final del nombre de archivo la extensión **.xml**
 * Comprobamos con el navegador que ha funcionado correctamente .
  ## *HTML*:
 
@@ -49,7 +49,7 @@ Realizamos los siguientes pasos
 </html>
 
 
-* Guardamos escribiendo al final del nombre de archivo la extensión .html
+* Guardamos escribiendo al final del nombre de archivo la extensión **.html**
 * Comprobamos con el el navegador que ha funcionado correctamente.
 
 # Ahora nos registraremos en GITHUB
