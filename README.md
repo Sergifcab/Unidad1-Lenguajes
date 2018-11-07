@@ -1,4 +1,3 @@
-# Unidad1-Lenguajes
 # Con el bloc de notas crea los siguientes documentos **RTF**, **XML** i **HTML**
 
 ## *RTF*:
@@ -18,20 +17,20 @@ Realizamos los siguientes pasos
 Realizamos los siguientes pasos
 * Creamos un documento en el bloc de notas
 * Introducimos el codigo XML
-<?xml version="1.0"?>
--<Alumnos>
+ <?xml version="1.0"?>
+<Alumnos>
 
--<alumno>
+<alumno>
 
--<Nombre>Isa</Nombre>
+<Nombre>Isa</Nombre>
 
--<Apellidos>Sevilla</Apellidos>
+<Apellidos>Sevilla</Apellidos>
 
--<Edad>6</Edad>
+<Edad>6</Edad>
 
--</alumno>
+</alumno>
 
--</Alumnos>
+</Alumnos>
 
 * Guardamos escribiendo al final del nombre de archivo la extensión .xml
 * Comprobamos con el navegador que ha funcionado correctamente .
@@ -41,13 +40,13 @@ Realizamos los siguientes pasos
 Realizamos los siguientes pasos
 * Creamos un documento en el bloc de notas
 * Introducimos el codigo HTML
--<!DOCTYPE html>
--<html>
--<head>
--<h1>Prueba</h1></head>
--<body>
--<h2>Prueba2</h2></body>
--</html>
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Prueba</h1></head>
+<body>
+<h2>Prueba2</h2></body>
+</html>
 
 
 * Guardamos escribiendo al final del nombre de archivo la extensión .html
@@ -58,3 +57,4 @@ Realizamos los siguientes pasos
 Realizamos los siguientes pasos
 * Nos dirigimos a la pagina [Github](https://github.com) y nos registramos.
 * Subimos los tres ejemplos a nuestro repositorio
+
