@@ -59,7 +59,7 @@ Realizamos los siguientes pasos
   * Subimos los tres ejemplos a nuestro repositorio 
   * Comprobamos que ha subido correctamente y que se nos abren.
 
-# Prueba html en RAWGIT
+# Prueba html en githack
 1. Abrimos el archivo html desde el repositorio en GITHUB
 1. Copiamos la URL de nuestro archivo 
 1. Nos dirigimos a la pagina [Githack]( https://raw.githack.com/)
