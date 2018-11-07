@@ -1,4 +1,4 @@
-# Con el bloc de notas crea los siguientes documentos **RTF**, **XML** i **HTML**
+# Con el bloc de notas crea los siguientes documentos **RTF**, **XML** i **HTML** 
 
 ## *RTF*:
 
@@ -17,7 +17,7 @@ Realizamos los siguientes pasos
 Realizamos los siguientes pasos
 * Creamos un documento en el bloc de notas
 * Introducimos el codigo XML
-<?xml version="1.0"?>
+ <?xml version="1.0"?>
 <Alumnos>
 
 <alumno>
@@ -30,7 +30,7 @@ Realizamos los siguientes pasos
 
 </alumno>
 
-</Alumnos>
+</Alumnos>]
 
 * Guardamos escribiendo al final del nombre de archivo la extensión .xml
 * Comprobamos con el navegador que ha funcionado correctamente .
@@ -43,7 +43,7 @@ Realizamos los siguientes pasos
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Prueba</h1></head>
+<h1 style="color:rgb(255,0,0);">Prueba</h1></head>
 <body>
 <h2>Prueba2</h2></body>
 </html>
@@ -54,7 +54,13 @@ Realizamos los siguientes pasos
 
 # Ahora nos registraremos en GITHUB
 
-Realizamos los siguientes pasos
-* Nos dirigimos a la pagina [Github](https://github.com) y nos registramos.
-* Subimos los tres ejemplos a nuestro repositorio
+* Realizamos los siguientes pasos      
+  *  Nos dirigimos a la pagina [Github](https://github.com) y nos registramos. 
+  * Subimos los tres ejemplos a nuestro repositorio 
+  * Comprobamos que ha subido correctamente y que se nos abren.
 
+# Prueba html en RAWGIT
+1. Abrimos el archivo html desde el repositorio en GITHUB
+1. Copiamos la URL de nuestro archivo 
+1. Nos dirigimos a la pagina [Githack]( https://rawgit.com/)
+1. Copiamos la URL y la misma paginas no dara otra URL con la que comprobaremos si la pagina se nos ve correctamente,[URL](https://raw.githack.com/Sergifcab/Unidad1-Lenguajes/master/Ejemplohtml.html)
