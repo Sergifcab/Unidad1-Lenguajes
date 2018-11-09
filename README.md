@@ -63,4 +63,4 @@ Realizamos los siguientes pasos
 1. Abrimos el archivo html desde el repositorio en GITHUB
 1. Copiamos la URL de nuestro archivo 
 1. Nos dirigimos a la pagina [Githack]( https://raw.githack.com/)
-1. Copiamos la URL y la misma paginas no dara otra URL con la que comprobaremos si la pagina se nos ve correctamente,[URL](https://raw.githack.com/Sergifcab/Unidad1-Lenguajes/master/Ejemplohtml.html)
+1. Copiamos la URL y la misma pagina nos dara otra URL con la que comprobaremos si la pagina se nos ve correctamente,[URL](https://raw.githack.com/Sergifcab/Unidad1-Lenguajes/master/Ejemplohtml.html)
